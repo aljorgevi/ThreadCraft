@@ -1,4 +1,4 @@
-import { Blog } from "../src/Blog";
+import { Blog } from "../src/components/Blog/Blog";
 
 describe("<MyComponent />", () => {
 	it("renders", () => {
