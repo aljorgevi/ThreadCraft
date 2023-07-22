@@ -1,6 +1,6 @@
 import { render, screen } from "@testing-library/react";
 
-import { MyComponent } from "../src/MyComponent";
+import { MyComponent } from "../src/Blog";
 
 test("MyComponent displays correctoy", () => {
 	render(<MyComponent title="My Component" />);
