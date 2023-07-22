@@ -1,0 +1,34 @@
+
+.blog {
+	font-family: sans-serif;
+
+}
+
+.blog .hero {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem;
+}
+
+.blog .hero__image {
+	width: 100%;
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+
+.blog .hero__content {
+	text-align: center;
+}
+
+.blog .hero__title {
+	font-size: 2rem;
+}
+
+.blog .hero__description {
+	font-size: 1.2rem;
+}
+
+
